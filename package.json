@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@cerebras/cerebras_cloud_sdk": "^1.11.0",
+    "axios": "^1.7.7",
     "express": "^4.21.1"
   }
 }
