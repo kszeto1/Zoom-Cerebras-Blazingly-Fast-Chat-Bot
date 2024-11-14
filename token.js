@@ -1,7 +1,7 @@
 //token.js
 const axios = require('axios');
 
-async function getChatbotToken() {
+async function getChatBotToken() {
     try {
         const response = await axios.post(
             'https://zoom.us/oauth/token?grant_type=client_credentials',
