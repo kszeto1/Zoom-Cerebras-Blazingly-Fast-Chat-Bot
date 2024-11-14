@@ -20,4 +20,4 @@ async function getChatBotToken() {
     }
 }
 
-module.exports = { getChatbotToken };
+module.exports = { getChatBotToken };
